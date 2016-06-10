@@ -34,3 +34,6 @@
 [submodule "WeCenterMobile/External/Msr"]
 	path = WeCenterMobile/External/Msr
 	url = https://github.com/MsrButterfly/Msr.LibSwift.git
+[submodule "WeCenterMobile/External/SnapKit"]
+	path = WeCenterMobile/External/SnapKit
+	url = https://github.com/SnapKit/SnapKit
